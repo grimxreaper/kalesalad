@@ -1,1 +1,1 @@
-Codecademy CSS Project
+K.S. Project
